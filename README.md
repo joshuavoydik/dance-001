@@ -1,4 +1,4 @@
-# dance-001
+# dance-01
 
 This is my first art piece using the p5 JavaScript library. 
 
